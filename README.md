@@ -12,7 +12,7 @@ The Agenda of this repo to Create
 
 Topics covered under this Youtube Project in Sequence
 
-| S.No | Topic | Sub-Topic | Percentage Complete |
-|----------|----------|----------|----------|
-| 1 | Pandas | 250 Leetcode Youtube Solutions and Solution Repo | 0 % |
-| 2 | SQL | 250 Leetcode Youtube Solutions and Solution Repo | 25 % |
+| S.No | Topic | Sub-Topic | Percentage Complete | Youtube | Github |
+|----------|----------|----------|----------|-------|------------|
+| 1 | Pandas | 250 Leetcode Youtube Solutions and Solution Repo | 0 % | - | - |
+| 2 | SQL | 250 Leetcode Youtube Solutions and Solution Repo | 25 % | - | - |
