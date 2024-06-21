@@ -14,5 +14,33 @@ Topics covered under this Youtube Project in Sequence
 
 | S.No | Topic | Sub-Topic | Percentage Complete | Youtube | Github |
 |----------|----------|----------|----------|-------|------------|
-| 1 | Pandas | 250 Leetcode Youtube Solutions and Solution Repo | 0 % | - | - |
-| 2 | SQL | 250 Leetcode Youtube Solutions and Solution Repo | 25 % | - | - |
+| 1 | Pandas | 250 Leetcode Youtube Solutions and Solution Repo    | 0 %  | - | - |
+| 2 | SQL    | 250 Leetcode Youtube Solutions and Solution Repo    | 25 % | - | - |
+| 3 | ML 1 | Supervised Learning youtube and learning materials | 0 %  | - | - |
+| 4 | ML 2 | UnSupervised Learning youtube and learning materials  | 0 % | - | - |
+| 5 | NN | Neural Networks end - end  | 0 %  | - | - |
+| 6 | CV | Computer Vision Extensive classes in youtube    | 0 % | - | - |
+| 7 | NLP | Neural Networks end - end  | 0 %  | - | - |
+| 8 | Gen-AI | Gen-AI end to end Technques   | 0 % | - | - |
+| 9 | OpenCV | Image Analsyis end - end using OpenCV | - | - |
+
+Time Schedule 
+
+| S.No | Topic | Start Date  |End Date |
+|----------|----------|----------|----------|
+| 1 | Pandas | 250 Leetcode Youtube Solutions and Solution Repo    | | | 
+| 2 | SQL    | 250 Leetcode Youtube Solutions and Solution Repo    | | | 
+| 3 | ML 1 | Supervised Learning youtube and learning materials | | | 
+| 4 | ML 2 | UnSupervised Learning youtube and learning materials  | | | 
+| 5 | NN | Neural Networks end - end  | | | 
+| 6 | CV | Computer Vision Extensive classes in youtube    | | | 
+| 7 | NLP | Neural Networks end - end  | | | 
+| 8 | Gen-AI | Gen-AI end to end Technques   || | 
+| 9 | OpenCV | Image Analsyis end - end using OpenCV | | | 
+
+
+Syllabus for all the Topics
+
+1. Pandas 
+
+All LeetCode 250 + Pandas Problems 
