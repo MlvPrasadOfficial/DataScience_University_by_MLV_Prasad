@@ -4,9 +4,13 @@ Hi, This is [MLV Prasad](https://www.linkedin.com/in/mlvprasadofficial/)
 
 **Data Scientist** @ Turing | M.Sc Computer Science (A.I and M.L)
 
+You can join my Telegram Group here : [Telegram]
+
 
 This Repo is a Personal Ambition Project of mine.. The Project starts from AUG 1 2024
 The Agenda of this repo to Create 
+
+
     1. Video Explainations of All the Data Science Topics
     2. Create Code solution Repositories and Reading Material along with that study.
 
