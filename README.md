@@ -7,7 +7,7 @@ Hi, This is [MLV Prasad](https://www.linkedin.com/in/mlvprasadofficial/)
 You can join my Telegram Group here : [Telegram](https://t.me/datascienceuniversity)
 
 
-This Repo is a Personal Ambition Project of mine.. The Project starts from AUG 1 2024
+This Repo is a Personal Ambition Project of mine.. The Project starts from NOV 1 2024
 The Agenda of this repo to Create 
 
 
