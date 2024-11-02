@@ -15,7 +15,7 @@ The Project starts from NOV 1 2024, The Agenda of this repo to Create ...
 
 
     1. Video Explainations of All the Data Science Topics
-    2. Create Code solution Repositories and Reading Material along with that study.
+    2. Create Code solution Repositories and Reading Material along with that..
 
 Topics covered under this Youtube Project in Sequence
 
@@ -23,6 +23,9 @@ Topics covered under this Youtube Project in Sequence
 |----------|----------|----------|----------|-------|------------|
 | Project-1 | SQL    | 290 Leetcode Youtube Solutions and Solution Repo    | 64.4 % | [Here](https://www.youtube.com/@ai.mlvprasad/playlists) | - |
 | Project-2 | Pandas | 290 Leetcode Youtube Solutions and Solution Repo    | 0 %  | [Here] | - |
+| Project-3 | To be announced in Jan 2025  | - | 0 %  | - | - |
+| Project-4 | To be announced in Jan 2025  | - | 0 %  | - | - |
+| Project-5 | To be announced in Jan 2025  | - | 0 %  | - | - |
 
 
 Timeline Schedule 
