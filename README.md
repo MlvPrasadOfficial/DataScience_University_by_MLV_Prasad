@@ -18,33 +18,16 @@ Topics covered under this Youtube Project in Sequence
 
 | S.No | Topic | Sub-Topic | Percentage Complete | Youtube | Github |
 |----------|----------|----------|----------|-------|------------|
-| 1 | Pandas | 250 Leetcode Youtube Solutions and Solution Repo    | 0 %  | - | - |
-| 2 | SQL    | 250 Leetcode Youtube Solutions and Solution Repo    | 25 % | - | - |
-| 3 | ML 1 | Supervised Learning youtube and learning materials | 0 %  | - | - |
-| 4 | ML 2 | UnSupervised Learning youtube and learning materials  | 0 % | - | - |
-| 5 | NN | Neural Networks end - end  | 0 %  | - | - |
-| 6 | CV | Computer Vision Extensive classes in youtube    | 0 % | - | - |
-| 7 | NLP | Neural Networks end - end  | 0 %  | - | - |
-| 8 | Gen-AI | Gen-AI end to end Technques   | 0 % | - | - |
-| 9 | OpenCV | Image Analsyis end - end using OpenCV | - | - |
+| Project-1 | SQL    | 290 Leetcode Youtube Solutions and Solution Repo    | 64.4 % | [Here](https://www.youtube.com/@ai.mlvprasad/playlists) | - |
+| Project-2 | Pandas | 290 Leetcode Youtube Solutions and Solution Repo    | 0 %  | [Here] | - |
 
-Time Schedule 
+
+Timeline Schedule 
 
 | S.No | Topic | Start Date  |End Date |
 |----------|----------|----------|----------|
-| 1 | Pandas |  | | 
-| 2 | SQL    |  | | 
-| 3 | ML 1 |  | | 
-| 4 | ML 2 |  | | 
-| 5 | NN |  | | 
-| 6 | CV |  | | 
-| 7 | NLP | | | 
-| 8 | Gen-AI | | | 
-| 9 | OpenCV | | | 
+| Project-1 | SQL | nov-1-2024 | dec-31-2024| 
+| Project-2 | Pandas | nov-1-2024 | dec-31-2024| 
 
 
-Syllabus for all the Topics
 
-1. Pandas 
-
-All LeetCode 250 + Pandas Problems 
