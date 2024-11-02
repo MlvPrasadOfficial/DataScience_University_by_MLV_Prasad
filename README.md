@@ -2,7 +2,7 @@
 
 Hi, This is [MLV Prasad](https://www.linkedin.com/in/mlvprasadofficial/)
 
-**Data Scientist** @ Turing | M.Sc Computer Science (A.I and M.L)
+**Mentor - Data Science** @[SCALER](https://www.scaler.com) | **Data Scientist - LLM** @Turing | M.Sc Computer Science (A.I and M.L)
 
 You can join my Telegram Group here : [Telegram](https://t.me/datascienceuniversity)
 
