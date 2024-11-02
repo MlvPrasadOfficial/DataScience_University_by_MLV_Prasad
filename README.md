@@ -4,8 +4,9 @@ Hi, This is [MLV Prasad](https://www.linkedin.com/in/mlvprasadofficial/)
 
 **Mentor - Data Science** @[SCALER](https://www.scaler.com) | **Data Scientist - LLM** @[Turing](https://www.turing.com) | M.Sc Computer Science (A.I and M.L)
 
-if you are interested in learning data science, fill the form here : [Link](https://forms.gle/LcjhECrjxsfPcdFn8)
-You can join my Telegram Group here : [Telegram](https://t.me/datascienceuniversity)
+if you are interested in learning data science, fill the form here: [Link](https://forms.gle/LcjhECrjxsfPcdFn8)
+
+You can join my Telegram Group here: [Telegram](https://t.me/datascienceuniversity)
 
 
 This Repo is a Personal Ambition Project of mine.. 
