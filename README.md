@@ -21,8 +21,8 @@ Topics covered under this Youtube Project in Sequence
 
 | S.No | Topic | Sub-Topic | Percentage Complete | Youtube | Github |
 |----------|----------|----------|----------|-------|------------|
-| Project-1 | SQL    | 290 Leetcode Youtube Solutions and Solution Repo    | 64.4 % | [Here](https://www.youtube.com/@ai.mlvprasad/playlists) | - |
-| Project-2 | Pandas | 290 Leetcode Youtube Solutions and Solution Repo    | 0 %  | [Here] | - |
+| Project-1 | LeetCode - SQL    | 290 Leetcode Youtube Solutions and Solution Repo    | 64.4 % | [Here](https://www.youtube.com/@ai.mlvprasad/playlists) | - |
+| Project-2 | LeetCode - Pandas | 290 Leetcode Youtube Solutions and Solution Repo    | 0 %  | [Here] | - |
 | Project-3 | To be announced in Jan 2025  | - | 0 %  | - | - |
 | Project-4 | To be announced in Jan 2025  | - | 0 %  | - | - |
 | Project-5 | To be announced in Jan 2025  | - | 0 %  | - | - |
