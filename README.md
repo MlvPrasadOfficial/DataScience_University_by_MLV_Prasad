@@ -4,11 +4,13 @@ Hi, This is [MLV Prasad](https://www.linkedin.com/in/mlvprasadofficial/)
 
 **Mentor - Data Science** @[SCALER](https://www.scaler.com) | **Data Scientist - LLM** @[Turing](https://www.turing.com) | M.Sc Computer Science (A.I and M.L)
 
+if you are interested in learning data science, fill the form here : [Link](https://forms.gle/LcjhECrjxsfPcdFn8)
 You can join my Telegram Group here : [Telegram](https://t.me/datascienceuniversity)
 
 
-This Repo is a Personal Ambition Project of mine.. The Project starts from NOV 1 2024
-The Agenda of this repo to Create 
+This Repo is a Personal Ambition Project of mine.. 
+
+The Project starts from NOV 1 2024, The Agenda of this repo to Create ...
 
 
     1. Video Explainations of All the Data Science Topics
