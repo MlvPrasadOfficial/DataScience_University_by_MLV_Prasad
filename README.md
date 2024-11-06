@@ -36,5 +36,7 @@ Timeline Schedule
 | Project-1 | SQL | nov-1-2024 | dec-31-2024| 
 | Project-2 | Pandas | nov-1-2024 | dec-31-2024| 
 
+If you find any issues of links missing or any mismatches..please report to Whatsapp +91 7680896860 for immediate fixing
+
 
 
