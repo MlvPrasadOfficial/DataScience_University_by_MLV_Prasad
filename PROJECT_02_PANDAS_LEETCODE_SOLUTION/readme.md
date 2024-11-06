@@ -2,7 +2,7 @@
 
 The table below lists all Pandas LeetCode question links with solution links and corresponding YouTube explanation links
 
-<span style="color: green;">This text will be green.</span> 
+$${\color{red}Red}$$
 
 | S.No | leetcode number | Type |Question Link | Youtube | Github Solution |
 |----------|----------|----------|----------|-------|------------|
