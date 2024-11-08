@@ -14,6 +14,9 @@ The table below lists all Pandas LeetCode question links with solution links and
 | 4 | 183 | $${\color{green}Easy}$$  | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)    | [Youtube](https://youtu.be/dLnuvDtPX50) | [Solution](https://github.com/MlvPrasadOfficial/DataScience_University_by_MLV_Prasad/blob/main/PROJECT_02_PANDAS_LEETCODE_SOLUTION/P0183.py) |
 | 5 | 196 | $${\color{green}Easy}$$  | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)    |  [Youtube](https://youtu.be/XAvj0BThMMU)|[Solution](https://github.com/MlvPrasadOfficial/DataScience_University_by_MLV_Prasad/blob/main/PROJECT_02_PANDAS_LEETCODE_SOLUTION/P0196.py)  |
 | 6 | 197 | $${\color{green}Easy}$$  | [Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)    | [Youtube](https://youtu.be/IMsXu5Ax2uY) | [Solution](https://github.com/MlvPrasadOfficial/DataScience_University_by_MLV_Prasad/blob/main/PROJECT_02_PANDAS_LEETCODE_SOLUTION/P0197.py) |
+| 7 | 511 | $${\color{green}Easy}$$  |[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)    | - | [Solution](https://github.com/MlvPrasadOfficial/DataScience_University_by_MLV_Prasad/blob/main/PROJECT_02_PANDAS_LEETCODE_SOLUTION/P0511.py) |
+| 8 | 512 | $${\color{green}Easy}$$  | [Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/description/)    | - | Solution](https://github.com/MlvPrasadOfficial/DataScience_University_by_MLV_Prasad/blob/main/PROJECT_02_PANDAS_LEETCODE_SOLUTION/P0512.py) |
+
 
 
 
