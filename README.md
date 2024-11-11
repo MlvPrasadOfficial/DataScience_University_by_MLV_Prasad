@@ -23,7 +23,7 @@ Topics covered under this Youtube Project in Sequence..
 | S.No | Topic | uploaded | Percentage Complete | Youtube | Github |
 |----------|----------|----------|---------------------|-------|------------|
 | Project-1 | LeetCode - SQL    | 187/290  | 64.4 %              | [Here](https://www.youtube.com/@ai.mlvprasad/playlists) | [Solutions](https://github.com/MlvPrasadOfficial/DataScience_University_by_MLV_Prasad/tree/main/PROJECT_01_SQL_LEETCOODE_SOLUTION) |
-| Project-2 | LeetCode - Pandas | 10/290   | 3.3 %               | [Here](https://www.youtube.com/@ai.mlvprasad/playlists) | [Solutions](https://github.com/MlvPrasadOfficial/DataScience_University_by_MLV_Prasad/tree/main/PROJECT_02_PANDAS_LEETCODE_SOLUTION)  |
+| Project-2 | LeetCode - Pandas | 14/290   | 4.5 %               | [Here](https://www.youtube.com/@ai.mlvprasad/playlists) | [Solutions](https://github.com/MlvPrasadOfficial/DataScience_University_by_MLV_Prasad/tree/main/PROJECT_02_PANDAS_LEETCODE_SOLUTION)  |
 | Project-3 | To be announced in Jan 2025  | -        | 0 %                 | - | - |
 | Project-4 | To be announced in Jan 2025  | -        | 0 %                 | - | - |
 | Project-5 | To be announced in Jan 2025  | -        | 0 %                 | - | - |
@@ -36,7 +36,6 @@ Timeline Schedule
 | Project-1 | SQL | nov-1-2024 | dec-31-2024| 
 | Project-2 | Pandas | nov-1-2024 | dec-31-2024| 
 
-If you find any issues of links missing or any mismatches..please report to Whatsapp +91 7680896860 for immediate fixing
-
+If you encounter any missing links or mismatches, please report them to WhatsApp at +91 7680896860 for immediate assistance.
 
 
