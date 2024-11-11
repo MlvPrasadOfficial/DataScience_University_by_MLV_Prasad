@@ -1,9 +1,13 @@
 import pandas as pd
 
-def big_countries(world: pd.DataFrame) -> pd.DataFrame:
+def find_classes(courses: pd.DataFrame) -> pd.DataFrame:
 
 
+    # STEP1
+    df =  courses.groupby(by="class").size().reset_index(name="ct")
 
-    return world[(world["population"]>=25000000) | ((world["area"]>=3000000))][["name","population","area"]]
-
-
+    # step 2
+    df = df[df["ct"] >= 5]
+    # step 3
+    return df[["class"]]
+    
